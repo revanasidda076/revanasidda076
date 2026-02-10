@@ -1,16 +1,21 @@
-## Hi there 👋
+## Hi 👋 I'm Revanasiddappa 👨‍💻
 
-<!--
-**revanasidda076/revanasidda076** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 2026 CSE Graduate  
+💼 Java Full Stack Intern @ JSpiders  
+🌱 Currently learning Java, Spring Boot & Web Technologies  
+🚀 Aspiring Full Stack Developer  
 
-Here are some ideas to get you started:
+### 🛠️ Tech Stack
+- Java | OOP | Collections  
+- HTML | CSS | JavaScript  
+- SQL | MySQL  
+- Basics of Spring & Hibernate  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📌 What I’m doing now
+- Building Java full stack mini-projects  
+- Practicing DSA basics in Java  
+- Improving Git & GitHub skills  
+
+### 📫 Connect with me
+- LinkedIn: (your link)
+- Email: (optional)
