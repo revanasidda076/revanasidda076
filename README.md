@@ -11,10 +11,5 @@
 - SQL | MySQL  
 - Basics of Spring & Hibernate  
 
-### 📌 What I’m doing now
-- Building Java full stack mini-projects  
-- Practicing DSA basics in Java  
-- Improving Git & GitHub skills  
-
 ### 📫 Connect with me
 - Email: revanasidda076@gmail.com
