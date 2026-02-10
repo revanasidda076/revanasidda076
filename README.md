@@ -17,5 +17,4 @@
 - Improving Git & GitHub skills  
 
 ### 📫 Connect with me
-- LinkedIn: (your link)
-- Email: (optional)
+- Email: revanasidda076@gmail.com
